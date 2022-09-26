@@ -1,0 +1,97 @@
+[
+    {
+        "runsScored": 4,
+        "isOut": true,
+        "dismissalType": "RUNOUT",
+        "dismissalInfo": {
+            "fielderName": "Root",
+            "hasBatsmanCrossed": true,
+            "batsmanOut": "striker"
+        },
+        "batsmanName": "Rahul",
+        "bowlerName": "Anderson",
+        "totalBallsFaced": 4,
+        "madeInOvers":0,
+        "totalOvers":2,
+        "runsGiven":4,
+        "wicketsTaken":0
+        
+    },
+    {
+        "runsScored": 16,
+        "isOut": true,
+        "dismissalType": "CAUGHT",
+        "dismissalInfo": {
+            "fielderName": "Butcher",
+            "hasBatsmanCrossed": false,
+            "batsmanOut": "striker"
+        },
+        "batsmanName": "Rohit",
+        "bowlerName": "Stokes",
+        "totalBallsFaced": 7,
+        "madeInOvers":0,
+        "totalOvers":1,
+        "runsGiven":8,
+        "wicketsTaken":1
+    },
+    {
+        "runsScored": 48,
+        "isOut": true,
+        "dismissalType": "CAUGHT",
+        "dismissalInfo": {
+            "fielderName": "Woakes",
+            "hasBatsmanCrossed": false,
+            "batsmanOut": "striker"
+        },
+        "batsmanName": "Kohli",
+        "bowlerName": "Broad",
+        "totalBallsFaced": 24,
+        "madeInOvers":0,
+        "totalOvers":1,
+        "runsGiven":10,
+        "wicketsTaken":1
+    },
+    {
+        "runsScored": 23,
+        "isOut": true,
+        "dismissalType": "CAUGHT",
+        "dismissalInfo": {
+            "fielderName": "Woakes",
+            "hasBatsmanCrossed": false,
+            "batsmanOut": "striker"
+        },
+        "batsmanName": "Karthik",
+        "bowlerName": "Woakes",
+        "totalBallsFaced": 11,
+        "madeInOvers":0,
+        "totalOvers":3,
+        "runsGiven":18,
+        "wicketsTaken":1
+       
+    },
+    {
+        "runsScored": 24,
+        "isOut": false,
+        "batsmanName": "Dhoni*",
+        "bowlerName": "Curran",
+        "totalBallsFaced": 9,
+        "madeInOvers":0,
+        "totalOvers":2,
+        "runsGiven":8,
+        "wicketsTaken":0,
+        "dismissalType": "NOTOUT"
+    },
+    
+    {
+        "runsScored": 16,
+        "isOut": false,
+        "batsmanName": "Gowtham*",
+        "bowlerName": "Ali",
+        "totalBallsFaced": 5,
+        "madeInOvers":0,
+        "totalOvers":2,
+        "runsGiven":8,
+        "wicketsTaken":0,
+        "dismissalType": "NOTOUT"
+    }
+]
